@@ -1,16 +1,12 @@
-# brew_crew
+# Brew_crew usando Flutter
 
-A new Flutter project.
+Um projeto flutter que serviu como uma lição para eu Alexandre Vitorino aprender a usar Firebase Cloud Firestore e Authetication para login e manipular esses dados
 
-## Getting Started
+## Vamos começar 
 
-This project is a starting point for a Flutter application.
+Vou deixar em baixo um Hyperlink com o conteúdo que usei para aprender a manipular o Firebase com o Flutter
 
-A few resources to get you started if this is your first Flutter project:
+- [Canal que eu usei para aprender Flutter com Firebase](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Playlist do video](https://www.youtube.com/watch?v=sfA3NWDBPZ4&list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para quem quer aprender é muito bom, canal bem explicativo.
